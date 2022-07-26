@@ -1,0 +1,20 @@
+{
+  "name": "web-services",
+  "version": "0.1.0",
+  "description": "Servidor con manejo de rutas y sistema de plantillas heredado",
+  "main": "index.php",
+  "scripts": {
+    "start":"php -S localhost:8080"
+  },
+  "keywords": [
+    "Server",
+    "Backend",
+    "PHP",
+    "Puro",
+    "Rutas",
+    "Request",
+    "Views"
+  ],
+  "author": "Angel Eduardo Vazquez Garcia",
+  "license": "MIT"
+}
